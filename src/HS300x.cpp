@@ -88,6 +88,9 @@ HS300xClass::HS300xClass(TwoWire& wire) :
 int HS300xClass::begin()
 {
   _wire->begin();
+  if (_measurementReq() <= 0) {
+    return 0;
+  }
   return 1;
 }
 
