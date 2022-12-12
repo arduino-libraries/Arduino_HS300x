@@ -1,11 +1,11 @@
-= HTS221 Library for Arduino =
+= HS300x Library for Arduino =
 
-Allows you to read the temperature and humidity sensors of your Nano 33 BLE Sense.
+Allows you to read the temperature and humidity sensors of your Nano 33 BLE Sense R2.
 
 
 == License ==
 
-Copyright (c) 2019 Arduino SA. All rights reserved.
+Copyright (c) 2022 Arduino SA. All rights reserved.
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public

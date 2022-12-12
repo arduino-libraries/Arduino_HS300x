@@ -1,5 +1,5 @@
 #########################################
-# Syntax Coloring Map For Arduino_HTS221
+# Syntax Coloring Map For Arduino_HS300X
 #########################################
 # Class
 #########################################

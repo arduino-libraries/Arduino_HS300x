@@ -1,6 +1,6 @@
 /*
-  This file is part of the Arduino_HTS221 library.
-  Copyright (c) 2019 Arduino SA. All rights reserved.
+  This file is part of the Arduino_HS300x library.
+  Copyright (c) 2022 Arduino SA. All rights reserved.
 
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
@@ -17,8 +17,8 @@
   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#ifndef _ARUDINO_HTS221_H_
-#define _ARUDINO_HTS221_H_
+#ifndef _ARUDINO_HS330X_H_
+#define _ARUDINO_HS330X_H_
 
 #include "HS300x.h"
 
