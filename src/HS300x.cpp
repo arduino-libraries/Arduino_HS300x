@@ -21,9 +21,9 @@
 #include "HS300x.h"
 
 #define HS300X_ADR                  0x44
-#define HS300X_TEMP_MULTY           0.010071415
+#define HS300X_TEMP_MULTY           0.0100714155
 #define HS300X_TEMP_MIN             40
-#define HS300X_HUMD_MULTY           0.006163516
+#define HS300X_HUMD_MULTY           0.0061038882
 #define HS300X_MAX_ITERATION        100
 #define HS300X_DELAY_MEASUREMENT    35          // typical on datasheet 16.90 ms, rounded up a little (35ms = 1 try)
 #define HS300X_DELAY_ITERATION      1
