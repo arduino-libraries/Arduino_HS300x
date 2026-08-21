@@ -108,7 +108,7 @@ float HS300xClass::readTemperature(int units)
   }
 
   if (units == FAHRENHEIT) { // Fahrenheit = (Celsius * 9 / 5) + 32
-    return (_temperature * 9.0 / 5.0) + 32.0;
+    return (_temperature * 9.0f / 5.0f) + 32.0f;
   } else {
     return _temperature;
   }
