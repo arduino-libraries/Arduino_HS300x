@@ -1,6 +1,6 @@
 # Arduino_HS300x Library
 
-The Arduino_HS300x library allows you to use the [HS300x](https://www.renesas.com/us/en/document/dst/hs300x-datasheet) sensor available on the Arduino® Nano 33 BLE Sense R2 board, to read the temperature and the relative humidity of the environment.
+The Arduino_HS300x library allows you to use the [HS3003](https://www.renesas.com/en/document/dst/hs3xxx-datasheet) sensor available on the Arduino® Nano 33 BLE Sense R2 board, to read the temperature and the relative humidity of the environment.
 
 To use this library:
 
